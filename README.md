@@ -1,2 +1,2 @@
 # 43_simulator
-![alt text](https://raw.githubusercontent.com/username/43_simulator/main/43-sim-demo.png)
+![](https://github.com/openspaceproject/43/raw/master/43-sim-demo.png)
